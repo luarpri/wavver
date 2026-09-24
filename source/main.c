@@ -3,10 +3,6 @@
 #include "player.h"
 
 #include <tonc.h>
-
-#include "soundbank.h"
-#include "soundbank_bin.h"
-#include <maxmod.h>
 #include <stdio.h>
 
 int main() {
