@@ -3,6 +3,7 @@
 #include "player.h"
 
 #include <tonc.h>
+#include <maxmod.h>
 #include <stdio.h>
 
 int main() {
