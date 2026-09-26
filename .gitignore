@@ -17,6 +17,8 @@ Thumbs.db
 *.elf
 *.bin
 *.exe
+gba-wav-to-s3m-converter
+gba-wav-to-s3m-converter.exe
 
 # audio files
 
